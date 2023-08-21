@@ -1,1 +1,35 @@
+# Study
+## Rocketseat
+- [ ] [Como aprender Elixir do jeito certo?](https://www.youtube.com/watch?v=w9x2XWdsQQI)
+- [ ] [O que é programação funcional?](https://www.youtube.com/watch?v=53Lv3efp7Rk)
+- [ ] [Pattern Matching - ferramenta mais poderosa do Elixir](https://www.youtube.com/watch?v=7zQqzhVu74Y)
+- [ ] [Introdução a Macros e Metaprogramação no Elixir](https://www.youtube.com/watch?v=4Ez6Yu6g6jo)
+- [ ] [Controle de fluxo no Elixir](https://www.youtube.com/watch?v=V_pIkbaFnMA)
+- [ ] [Conheça as estruturas de dados do Elixir](https://www.youtube.com/watch?v=itY9IVnvgmw)
+- [ ] [Banco de dados com o Ecto!](https://www.youtube.com/watch?v=tjvwsxjvBwY)
+- [ ] [Testes unitários](https://www.youtube.com/watch?v=c6tSDjj7VNM)
+- [ ] [Primeira app Web no Elixir com o Phoenix](https://www.youtube.com/watch?v=LGT5a8xKhS4)
+- [ ] [Extensibilidade em Elixir com Protocols](https://www.youtube.com/watch?v=pFUXbppNpDQ)
+
+## Alura
+- [ ]  Executando Código no IEX
+- [ ]  Tipo de Dados
+    - [ ]  Mais tipos de Dados
+- [ ]  Módulos
+- [ ]  Funções e Pattern Matching
+- [ ]  Controle de Fluxo
+- [ ]  Funções mais complexas
+- [ ]  Tail Recursion
+- [ ]  Valores Enumeraveis
+- [ ]  Lidando com Arquivos
+- [ ]  Formas de Execução de Código
+- [ ]  Ecossistema
+- [ ]  Processos
+- [ ]  Mix Tasks
+- [ ]  Aplicação
+- [ ]  Testes
+# Documentation
+- [Elixir Docs](https://elixir-lang.org/docs.html)
+- [Elixir schooll](https://elixirschool.com/pt/lessons/basics/documentation)
 # RoadMap Elixir
+![RoadMap Elixir](https://github.com/beatrizdaddea/ElixirCourse/assets/79612466/8d902086-eabf-4a12-9258-738cccbddc94)
