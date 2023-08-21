@@ -1,6 +1,6 @@
 # Study
 ## Rocketseat
-- [ ] [Como aprender Elixir do jeito certo?](https://www.youtube.com/watch?v=w9x2XWdsQQI)
+- [x] [Como aprender Elixir do jeito certo?](https://www.youtube.com/watch?v=w9x2XWdsQQI)
 - [ ] [O que é programação funcional?](https://www.youtube.com/watch?v=53Lv3efp7Rk)
 - [ ] [Pattern Matching - ferramenta mais poderosa do Elixir](https://www.youtube.com/watch?v=7zQqzhVu74Y)
 - [ ] [Introdução a Macros e Metaprogramação no Elixir](https://www.youtube.com/watch?v=4Ez6Yu6g6jo)
@@ -14,7 +14,6 @@
 ## Alura
 - [ ]  Executando Código no IEX
 - [ ]  Tipo de Dados
-    - [ ]  Mais tipos de Dados
 - [ ]  Módulos
 - [ ]  Funções e Pattern Matching
 - [ ]  Controle de Fluxo
@@ -28,6 +27,7 @@
 - [ ]  Mix Tasks
 - [ ]  Aplicação
 - [ ]  Testes
+
 # Documentation
 - [Elixir Docs](https://elixir-lang.org/docs.html)
 - [Elixir schooll](https://elixirschool.com/pt/lessons/basics/documentation)
