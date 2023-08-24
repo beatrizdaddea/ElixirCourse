@@ -12,9 +12,9 @@
 - [ ] [Extensibilidade em Elixir com Protocols](https://www.youtube.com/watch?v=pFUXbppNpDQ)
 
 ## Alura
-- [ ]  Executando Código no IEX
-- [ ]  Tipo de Dados
-- [ ]  Módulos
+- [x]  Executando Código no IEX
+- [x]  Tipo de Dados
+- [x]  Módulos
 - [ ]  Funções e Pattern Matching
 - [ ]  Controle de Fluxo
 - [ ]  Funções mais complexas
