@@ -16,7 +16,7 @@
 - [x]  Tipo de Dados
 - [x]  Módulos
 - [x]  Funções e Pattern Matching
-- [ ]  Controle de Fluxo
+- [x]  Controle de Fluxo
 - [ ]  Funções mais complexas
 - [ ]  Tail Recursion
 - [ ]  Valores Enumeraveis
