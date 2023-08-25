@@ -15,7 +15,7 @@
 - [x]  Executando Código no IEX
 - [x]  Tipo de Dados
 - [x]  Módulos
-- [ ]  Funções e Pattern Matching
+- [x]  Funções e Pattern Matching
 - [ ]  Controle de Fluxo
 - [ ]  Funções mais complexas
 - [ ]  Tail Recursion
