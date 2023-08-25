@@ -5,6 +5,7 @@ There are 2 folders in it, organized into:
     - Elixir language roadmap
     - RocketSeat lessons
     - Study topics organized by Alura platform
+
 And the other folder called "Alura Course" is the practical applications of Elixir concepts.
 
 ## Authors
