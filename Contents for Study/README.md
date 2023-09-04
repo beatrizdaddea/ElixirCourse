@@ -17,9 +17,9 @@
 - [x]  Módulos
 - [x]  Funções e Pattern Matching
 - [x]  Controle de Fluxo
-- [ ]  Funções mais complexas
-- [ ]  Tail Recursion
-- [ ]  Valores Enumeraveis
+- [x]  Funções mais complexas
+- [x]  Tail Recursion
+- [x]  Valores Enumeraveis
 - [ ]  Lidando com Arquivos
 - [ ]  Formas de Execução de Código
 - [ ]  Ecossistema
