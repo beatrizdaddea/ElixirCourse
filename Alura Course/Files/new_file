@@ -1,0 +1,3 @@
+ Criando um novo arquivo com File Write
+
+ O File.write espera por parâmetro um caminho de um arquivo e cria um novo processo do Elixir para escrever neste arquivo. Se tivermos essa operação sendo executada várias vezes, vários processos vão ser criados. Já o IO.write espera o identificador de um arquivo já aberto, logo, não precisa criar um novo processo a cada escrita.
