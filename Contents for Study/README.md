@@ -20,10 +20,10 @@
 - [x]  Funções mais complexas
 - [x]  Tail Recursion
 - [x]  Valores Enumeraveis
-- [ ]  Lidando com Arquivos
-- [ ]  Formas de Execução de Código
-- [ ]  Ecossistema
-- [ ]  Processos
+- [x]  Lidando com Arquivos
+- [x]  Formas de Execução de Código
+- [x]  Ecossistema
+- [x]  Processos
 - [ ]  Mix Tasks
 - [ ]  Aplicação
 - [ ]  Testes
