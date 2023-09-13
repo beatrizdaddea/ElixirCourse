@@ -24,8 +24,8 @@
 - [x]  Formas de Execução de Código
 - [x]  Ecossistema
 - [x]  Processos
-- [ ]  Mix Tasks
-- [ ]  Aplicação
+- [x]  Mix Tasks
+- [x]  Aplicação
 - [ ]  Testes
 
 # Documentation
