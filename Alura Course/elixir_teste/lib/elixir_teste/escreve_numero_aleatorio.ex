@@ -4,7 +4,5 @@ defmodule ElixirTeste.EscreveNumeroAleatorio do
 
     numero_aleatorio = :rand.uniform(1000)
     File.write!(caminho_arquivo, "Número: #{numero_aleatorio}")
-
   end
-
 end
