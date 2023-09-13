@@ -23,7 +23,7 @@ defmodule ElixirTeste.MixProject do
   defp deps do
     [
       {:quantum, "~> 3.5"},
-      # {:dep_from_git, git: "https://github.com/elixir-lang/my_dep.git", tag: "0.1.0"}
+      {:mock, "~> 0.3.8"},
     ]
   end
 end
