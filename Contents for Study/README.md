@@ -3,7 +3,7 @@
 - [x] [Como aprender Elixir do jeito certo?](https://www.youtube.com/watch?v=w9x2XWdsQQI)
 - [x] [O que é programação funcional?](https://www.youtube.com/watch?v=53Lv3efp7Rk)
 - [x] [Pattern Matching - ferramenta mais poderosa do Elixir](https://www.youtube.com/watch?v=7zQqzhVu74Y)
-- [ ] [Introdução a Macros e Metaprogramação no Elixir](https://www.youtube.com/watch?v=4Ez6Yu6g6jo)
+- [x] [Introdução a Macros e Metaprogramação no Elixir](https://www.youtube.com/watch?v=4Ez6Yu6g6jo)
 - [ ] [Controle de fluxo no Elixir](https://www.youtube.com/watch?v=V_pIkbaFnMA)
 - [ ] [Conheça as estruturas de dados do Elixir](https://www.youtube.com/watch?v=itY9IVnvgmw)
 - [ ] [Banco de dados com o Ecto!](https://www.youtube.com/watch?v=tjvwsxjvBwY)
