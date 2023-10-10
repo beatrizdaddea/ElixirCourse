@@ -8,7 +8,7 @@
 - [ ] [Conheça as estruturas de dados do Elixir](https://www.youtube.com/watch?v=itY9IVnvgmw)
 - [ ] [Banco de dados com o Ecto!](https://www.youtube.com/watch?v=tjvwsxjvBwY)
 - [ ] [Testes unitários](https://www.youtube.com/watch?v=c6tSDjj7VNM)
-- [ ] [Primeira app Web no Elixir com o Phoenix](https://www.youtube.com/watch?v=LGT5a8xKhS4)
+- [x] [Primeira app Web no Elixir com o Phoenix](https://www.youtube.com/watch?v=LGT5a8xKhS4)
 - [ ] [Extensibilidade em Elixir com Protocols](https://www.youtube.com/watch?v=pFUXbppNpDQ)
 
 ## Alura
@@ -26,7 +26,7 @@
 - [x]  Processos
 - [x]  Mix Tasks
 - [x]  Aplicação
-- [ ]  Testes
+- [x]  Testes
 
 # Documentation
 - [Elixir Docs](https://elixir-lang.org/docs.html)
